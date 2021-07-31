@@ -1,0 +1,1194 @@
+[
+    {
+        "name": "V Sehwag (ICC/INDIA)",
+        "pid": "35263",
+        "avg": 49.34,
+        "sr": 82.23,
+        "startYear": 2001,
+        "consIndex": 1.2241818142376863
+    },
+    {
+        "name": "AC Gilchrist (AUS)",
+        "pid": "5390",
+        "avg": 47.6,
+        "sr": 81.95,
+        "startYear": 1999,
+        "consIndex": 1.13790952935218
+    },
+    {
+        "name": "N Kapil Dev (INDIA)",
+        "pid": "30028",
+        "avg": 31.05,
+        "sr": 80.91,
+        "startYear": 1978,
+        "consIndex": 1.102426977611905
+    },
+    {
+        "name": "DA Warner (AUS)",
+        "pid": "219889",
+        "avg": 48.09,
+        "sr": 72.68,
+        "startYear": 2011,
+        "consIndex": 1.129743317542574
+    },
+    {
+        "name": "Q de Kock (SA)",
+        "pid": "379143",
+        "avg": 39.09,
+        "sr": 71.14,
+        "startYear": 2014,
+        "consIndex": 1.0811347939007787
+    },
+    {
+        "name": "IVA Richards (WI)",
+        "pid": "52812",
+        "avg": 50.23,
+        "sr": 70.19,
+        "startYear": 1974,
+        "consIndex": 1.0720603752811857
+    },
+    {
+        "name": "TM Dilshan (SL)",
+        "pid": "48472",
+        "avg": 40.98,
+        "sr": 65.54,
+        "startYear": 1999,
+        "consIndex": 1.0741863562460499
+    },
+    {
+        "name": "ST Jayasuriya (SL)",
+        "pid": "49209",
+        "avg": 40.07,
+        "sr": 65.18,
+        "startYear": 1991,
+        "consIndex": 1.2301936422256536
+    },
+    {
+        "name": "BB McCullum (NZ)",
+        "pid": "37737",
+        "avg": 38.64,
+        "sr": 64.6,
+        "startYear": 2004,
+        "consIndex": 1.241372481211321
+    },
+    {
+        "name": "A Flintoff (ENG/ICC)",
+        "pid": "12856",
+        "avg": 31.77,
+        "sr": 62.04,
+        "startYear": 1998,
+        "consIndex": 1.0781050041576186
+    },
+    {
+        "name": "KP Pietersen (ENG)",
+        "pid": "19296",
+        "avg": 47.28,
+        "sr": 61.72,
+        "startYear": 2005,
+        "consIndex": 1.0387547949698201
+    },
+    {
+        "name": "MJ Prior (ENG)",
+        "pid": "18675",
+        "avg": 40.18,
+        "sr": 61.66,
+        "startYear": 2007,
+        "consIndex": 0.9875023364634027
+    },
+    {
+        "name": "Shakib Al Hasan (BDESH)",
+        "pid": "56143",
+        "avg": 39.33,
+        "sr": 61.65,
+        "startYear": 2007,
+        "consIndex": 1.04196972423692
+    },
+    {
+        "name": "IT Botham (ENG)",
+        "pid": "9163",
+        "avg": 33.54,
+        "sr": 60.71,
+        "startYear": 1977,
+        "consIndex": 1.2468783850242773
+    },
+    {
+        "name": "BC Lara (ICC/WI)",
+        "pid": "52337",
+        "avg": 52.88,
+        "sr": 60.51,
+        "startYear": 1990,
+        "consIndex": 1.2382749518029468
+    },
+    {
+        "name": "Habibul Bashar (BDESH)",
+        "pid": "55906",
+        "avg": 30.87,
+        "sr": 60.27,
+        "startYear": 2000,
+        "consIndex": 0.9641086482425099
+    },
+    {
+        "name": "CH Gayle (WI)",
+        "pid": "51880",
+        "avg": 42.18,
+        "sr": 60.26,
+        "startYear": 2000,
+        "consIndex": 1.232793001429833
+    },
+    {
+        "name": "ML Hayden (AUS)",
+        "pid": "5616",
+        "avg": 50.73,
+        "sr": 60.1,
+        "startYear": 1994,
+        "consIndex": 1.0432161463950582
+    },
+    {
+        "name": "GC Smith (ICC/SA)",
+        "pid": "47270",
+        "avg": 48.25,
+        "sr": 59.67,
+        "startYear": 2002,
+        "consIndex": 1.073807264056746
+    },
+    {
+        "name": "LRPL Taylor (NZ)",
+        "pid": "38699",
+        "avg": 45.84,
+        "sr": 59.61,
+        "startYear": 2007,
+        "consIndex": 1.262110703786864
+    },
+    {
+        "name": "MS Dhoni (INDIA)",
+        "pid": "28081",
+        "avg": 38.09,
+        "sr": 59.11,
+        "startYear": 2005,
+        "consIndex": 1.085300313849569
+    },
+    {
+        "name": "CH Lloyd (WI)",
+        "pid": "52345",
+        "avg": 48.51,
+        "sr": 58.95,
+        "startYear": 1971,
+        "consIndex": 0.9603634372966257
+    },
+    {
+        "name": "RT Ponting (AUS)",
+        "pid": "7133",
+        "avg": 51.85,
+        "sr": 58.72,
+        "startYear": 1995,
+        "consIndex": 1.0916564765438164
+    },
+    {
+        "name": "BJ Haddin (AUS)",
+        "pid": "5560",
+        "avg": 32.98,
+        "sr": 58.45,
+        "startYear": 2008,
+        "consIndex": 1.0649247177169034
+    },
+    {
+        "name": "DL Vettori (ICC/NZ)",
+        "pid": "38710",
+        "avg": 30.0,
+        "sr": 58.18,
+        "startYear": 1997,
+        "consIndex": 1.1616941440317479
+    },
+    {
+        "name": "BA Stokes (ENG)",
+        "pid": "311158",
+        "avg": 37.04,
+        "sr": 58.12,
+        "startYear": 2013,
+        "consIndex": 1.1286502209207019
+    },
+    {
+        "name": "M Azharuddin (INDIA)",
+        "pid": "26329",
+        "avg": 45.03,
+        "sr": 57.8,
+        "startYear": 1984,
+        "consIndex": 1.0888179580914545
+    },
+    {
+        "name": "Tamim Iqbal (BDESH)",
+        "pid": "56194",
+        "avg": 39.57,
+        "sr": 57.75,
+        "startYear": 2008,
+        "consIndex": 0.9760767723605237
+    },
+    {
+        "name": "Sir RJ Hadlee (NZ)",
+        "pid": "37224",
+        "avg": 27.16,
+        "sr": 57.34,
+        "startYear": 1973,
+        "consIndex": 1.1198752377316727
+    },
+    {
+        "name": "CL Cairns (NZ)",
+        "pid": "36597",
+        "avg": 33.53,
+        "sr": 57.09,
+        "startYear": 1989,
+        "consIndex": 0.9925984123776131
+    },
+    {
+        "name": "V Kohli (INDIA)",
+        "pid": "253802",
+        "avg": 52.04,
+        "sr": 56.85,
+        "startYear": 2011,
+        "consIndex": 1.1865436537969765
+    },
+    {
+        "name": "Mohammad Hafeez (PAK)",
+        "pid": "41434",
+        "avg": 37.64,
+        "sr": 56.01,
+        "startYear": 2003,
+        "consIndex": 1.3547464121285258
+    },
+    {
+        "name": "MJ Clarke (AUS)",
+        "pid": "4578",
+        "avg": 49.1,
+        "sr": 55.92,
+        "startYear": 2004,
+        "consIndex": 1.3032904207855267
+    },
+    {
+        "name": "Saeed Anwar (PAK)",
+        "pid": "42605",
+        "avg": 45.52,
+        "sr": 55.77,
+        "startYear": 1990,
+        "consIndex": 0.9997586240301951
+    },
+    {
+        "name": "Zaheer Abbas (PAK)",
+        "pid": "43695",
+        "avg": 45.25,
+        "sr": 55.22,
+        "startYear": 1971,
+        "consIndex": 1.3160480080976522
+    },
+    {
+        "name": "BKG Mendis (SL)",
+        "pid": "629074",
+        "avg": 34.73,
+        "sr": 55.14,
+        "startYear": 2015,
+        "consIndex": 1.2630482859583316
+    },
+    {
+        "name": "SPD Smith (AUS)",
+        "pid": "267192",
+        "avg": 61.8,
+        "sr": 55.11,
+        "startYear": 2010,
+        "consIndex": 1.0807602367775708
+    },
+    {
+        "name": "CD McMillan (NZ)",
+        "pid": "37712",
+        "avg": 38.46,
+        "sr": 54.95,
+        "startYear": 1997,
+        "consIndex": 1.1174556613433486
+    },
+    {
+        "name": "JM Bairstow (ENG)",
+        "pid": "297433",
+        "avg": 34.12,
+        "sr": 54.82,
+        "startYear": 2012,
+        "consIndex": 1.1020774616515587
+    },
+    {
+        "name": "JE Root (ENG)",
+        "pid": "303669",
+        "avg": 48.68,
+        "sr": 54.69,
+        "startYear": 2012,
+        "consIndex": 1.1025506567140266
+    },
+    {
+        "name": "Mominul Haque (BDESH)",
+        "pid": "373696",
+        "avg": 42.93,
+        "sr": 54.68,
+        "startYear": 2013,
+        "consIndex": 1.1328649732696316
+    },
+    {
+        "name": "AB de Villiers (SA)",
+        "pid": "44936",
+        "avg": 50.66,
+        "sr": 54.51,
+        "startYear": 2004,
+        "consIndex": 1.026464703071256
+    },
+    {
+        "name": "ME Trescothick (ENG)",
+        "pid": "21585",
+        "avg": 43.79,
+        "sr": 54.51,
+        "startYear": 2000,
+        "consIndex": 1.0622220299903236
+    },
+    {
+        "name": "JL Langer (AUS)",
+        "pid": "6256",
+        "avg": 45.27,
+        "sr": 54.22,
+        "startYear": 1993,
+        "consIndex": 1.1252000434164244
+    },
+    {
+        "name": "KC Sangakkara (SL)",
+        "pid": "50710",
+        "avg": 57.4,
+        "sr": 54.19,
+        "startYear": 2000,
+        "consIndex": 1.180854493298786
+    },
+    {
+        "name": "SR Tendulkar (INDIA)",
+        "pid": "35320",
+        "avg": 53.78,
+        "sr": 54.04,
+        "startYear": 1989,
+        "consIndex": 1.1407822526829023
+    },
+    {
+        "name": "Inzamam-ul-Haq (ICC/PAK)",
+        "pid": "40570",
+        "avg": 49.6,
+        "sr": 54.02,
+        "startYear": 1992,
+        "consIndex": 1.1034539220256878
+    },
+    {
+        "name": "MJ Slater (AUS)",
+        "pid": "7629",
+        "avg": 42.83,
+        "sr": 53.29,
+        "startYear": 1993,
+        "consIndex": 1.0570824279621
+    },
+    {
+        "name": "SR Watson (AUS)",
+        "pid": "8180",
+        "avg": 35.19,
+        "sr": 52.59,
+        "startYear": 2005,
+        "consIndex": 0.9646334750874439
+    },
+    {
+        "name": "SM Pollock (SA)",
+        "pid": "46774",
+        "avg": 32.31,
+        "sr": 52.52,
+        "startYear": 1995,
+        "consIndex": 1.077742934460881
+    },
+    {
+        "name": "Mohammad Yousuf (PAK)",
+        "pid": "43650",
+        "avg": 52.29,
+        "sr": 52.39,
+        "startYear": 1998,
+        "consIndex": 1.115592350371234
+    },
+    {
+        "name": "ME Waugh (AUS)",
+        "pid": "8189",
+        "avg": 41.81,
+        "sr": 52.27,
+        "startYear": 1991,
+        "consIndex": 0.9730959438938318
+    },
+    {
+        "name": "Younis Khan (PAK)",
+        "pid": "43652",
+        "avg": 52.05,
+        "sr": 52.12,
+        "startYear": 2000,
+        "consIndex": 1.207279536623049
+    },
+    {
+        "name": "KS Williamson (NZ)",
+        "pid": "277906",
+        "avg": 53.95,
+        "sr": 51.76,
+        "startYear": 2010,
+        "consIndex": 1.164869368950337
+    },
+    {
+        "name": "RC Fredericks (WI)",
+        "pid": "51797",
+        "avg": 45.89,
+        "sr": 51.59,
+        "startYear": 1971,
+        "consIndex": 0.8791993093870238
+    },
+    {
+        "name": "G Gambhir (INDIA)",
+        "pid": "28763",
+        "avg": 41.95,
+        "sr": 51.49,
+        "startYear": 2004,
+        "consIndex": 1.0463821143279572
+    },
+    {
+        "name": "DPMD Jayawardene (SL)",
+        "pid": "49289",
+        "avg": 49.84,
+        "sr": 51.45,
+        "startYear": 1997,
+        "consIndex": 1.2183418120775007
+    },
+    {
+        "name": "DR Martyn (AUS)",
+        "pid": "6513",
+        "avg": 46.37,
+        "sr": 51.41,
+        "startYear": 1992,
+        "consIndex": 1.055725476139808
+    },
+    {
+        "name": "AJ Lamb (ENG)",
+        "pid": "16178",
+        "avg": 36.09,
+        "sr": 51.4,
+        "startYear": 1982,
+        "consIndex": 1.0796568643108417
+    },
+    {
+        "name": "SC Ganguly (INDIA)",
+        "pid": "28779",
+        "avg": 42.17,
+        "sr": 51.25,
+        "startYear": 1996,
+        "consIndex": 1.0042057083880958
+    },
+    {
+        "name": "MP Vaughan (ENG)",
+        "pid": "22182",
+        "avg": 41.44,
+        "sr": 51.13,
+        "startYear": 1999,
+        "consIndex": 1.1288413590556396
+    },
+    {
+        "name": "PA de Silva (SL)",
+        "pid": "48462",
+        "avg": 42.97,
+        "sr": 51.04,
+        "startYear": 1984,
+        "consIndex": 1.21912640498162
+    },
+    {
+        "name": "DI Gower (ENG)",
+        "pid": "13418",
+        "avg": 44.25,
+        "sr": 50.59,
+        "startYear": 1978,
+        "consIndex": 1.0715220900096938
+    },
+    {
+        "name": "A Ranatunga (SL)",
+        "pid": "50244",
+        "avg": 35.69,
+        "sr": 50.54,
+        "startYear": 1982,
+        "consIndex": 0.9400113340375916
+    },
+    {
+        "name": "CL Hooper (WI)",
+        "pid": "52066",
+        "avg": 36.46,
+        "sr": 50.27,
+        "startYear": 1987,
+        "consIndex": 1.185676022797389
+    },
+    {
+        "name": "HH Gibbs (SA)",
+        "pid": "45224",
+        "avg": 41.95,
+        "sr": 50.26,
+        "startYear": 1996,
+        "consIndex": 1.240118181167574
+    },
+    {
+        "name": "MEK Hussey (AUS)",
+        "pid": "5939",
+        "avg": 51.52,
+        "sr": 50.13,
+        "startYear": 2005,
+        "consIndex": 0.9983895293623212
+    },
+    {
+        "name": "MV Boucher (ICC/SA)",
+        "pid": "44111",
+        "avg": 30.3,
+        "sr": 50.11,
+        "startYear": 1997,
+        "consIndex": 1.007554136051249
+    },
+    {
+        "name": "HM Amla (SA)",
+        "pid": "43906",
+        "avg": 46.64,
+        "sr": 49.97,
+        "startYear": 2004,
+        "consIndex": 1.2012812166282838
+    },
+    {
+        "name": "FDM Karunaratne (SL)",
+        "pid": "227772",
+        "avg": 38.62,
+        "sr": 49.74,
+        "startYear": 2012,
+        "consIndex": 1.1879892086331822
+    },
+    {
+        "name": "IA Healy (AUS)",
+        "pid": "5628",
+        "avg": 27.39,
+        "sr": 49.72,
+        "startYear": 1988,
+        "consIndex": 1.1786120909038031
+    },
+    {
+        "name": "AM Rahane (INDIA)",
+        "pid": "277916",
+        "avg": 41.12,
+        "sr": 49.64,
+        "startYear": 2013,
+        "consIndex": 1.0517676439072325
+    },
+    {
+        "name": "NJ Astle (NZ)",
+        "pid": "36185",
+        "avg": 37.02,
+        "sr": 49.6,
+        "startYear": 1996,
+        "consIndex": 1.0924390474535979
+    },
+    {
+        "name": "IR Bell (ENG)",
+        "pid": "9062",
+        "avg": 42.69,
+        "sr": 49.46,
+        "startYear": 2004,
+        "consIndex": 1.1804311818605384
+    },
+    {
+        "name": "VVS Laxman (INDIA)",
+        "pid": "30750",
+        "avg": 45.97,
+        "sr": 49.37,
+        "startYear": 1996,
+        "consIndex": 1.1931022376335492
+    },
+    {
+        "name": "SM Katich (AUS)",
+        "pid": "6128",
+        "avg": 45.03,
+        "sr": 49.36,
+        "startYear": 2001,
+        "consIndex": 0.8804864504420022
+    },
+    {
+        "name": "Saleem Malik (PAK)",
+        "pid": "42623",
+        "avg": 43.69,
+        "sr": 49.33,
+        "startYear": 1982,
+        "consIndex": 1.0979648161934723
+    },
+    {
+        "name": "GA Gooch (ENG)",
+        "pid": "13399",
+        "avg": 42.58,
+        "sr": 49.23,
+        "startYear": 1975,
+        "consIndex": 1.1085519554150371
+    },
+    {
+        "name": "CG Greenidge (WI)",
+        "pid": "51901",
+        "avg": 44.72,
+        "sr": 49.02,
+        "startYear": 1974,
+        "consIndex": 1.1598073126803647
+    },
+    {
+        "name": "DJ Cullinan (SA)",
+        "pid": "44489",
+        "avg": 44.21,
+        "sr": 48.96,
+        "startYear": 1993,
+        "consIndex": 1.2994798444355644
+    },
+    {
+        "name": "AJ Strauss (ENG)",
+        "pid": "20387",
+        "avg": 40.91,
+        "sr": 48.91,
+        "startYear": 2004,
+        "consIndex": 1.0174089528984478
+    },
+    {
+        "name": "DM Jones (AUS)",
+        "pid": "6044",
+        "avg": 46.55,
+        "sr": 48.88,
+        "startYear": 1984,
+        "consIndex": 1.1416314831374748
+    },
+    {
+        "name": "GA Hick (ENG)",
+        "pid": "14187",
+        "avg": 31.32,
+        "sr": 48.88,
+        "startYear": 1991,
+        "consIndex": 1.1815741470997247
+    },
+    {
+        "name": "AJ Stewart (ENG)",
+        "pid": "20372",
+        "avg": 39.54,
+        "sr": 48.66,
+        "startYear": 1990,
+        "consIndex": 1.0789652294407817
+    },
+    {
+        "name": "SR Waugh (AUS)",
+        "pid": "8192",
+        "avg": 51.06,
+        "sr": 48.64,
+        "startYear": 1985,
+        "consIndex": 1.2595686142393214
+    },
+    {
+        "name": "Asad Shafiq (PAK)",
+        "pid": "316397",
+        "avg": 38.19,
+        "sr": 48.6,
+        "startYear": 2010,
+        "consIndex": 0.9655834458988374
+    },
+    {
+        "name": "LD Chandimal (SL)",
+        "pid": "300628",
+        "avg": 39.98,
+        "sr": 48.37,
+        "startYear": 2011,
+        "consIndex": 1.2381539189188606
+    },
+    {
+        "name": "AD Mathews (SL)",
+        "pid": "49764",
+        "avg": 44.86,
+        "sr": 48.32,
+        "startYear": 2009,
+        "consIndex": 1.0404172028498109
+    },
+    {
+        "name": "Mushfiqur Rahim (BDESH)",
+        "pid": "56029",
+        "avg": 36.97,
+        "sr": 47.9,
+        "startYear": 2005,
+        "consIndex": 1.1772598076374259
+    },
+    {
+        "name": "RB Richardson (WI)",
+        "pid": "52810",
+        "avg": 44.39,
+        "sr": 47.76,
+        "startYear": 1983,
+        "consIndex": 1.1368363170031182
+    },
+    {
+        "name": "MN Samuels (WI)",
+        "pid": "52983",
+        "avg": 32.64,
+        "sr": 47.65,
+        "startYear": 2000,
+        "consIndex": 1.2036814028258522
+    },
+    {
+        "name": "Imran Khan (PAK)",
+        "pid": "40560",
+        "avg": 37.69,
+        "sr": 47.52,
+        "startYear": 1971,
+        "consIndex": 1.1807396374240156
+    },
+    {
+        "name": "IJL Trott (ENG)",
+        "pid": "47623",
+        "avg": 44.08,
+        "sr": 47.18,
+        "startYear": 2009,
+        "consIndex": 1.113359303200324
+    },
+    {
+        "name": "D Elgar (SA)",
+        "pid": "230852",
+        "avg": 39.51,
+        "sr": 46.99,
+        "startYear": 2012,
+        "consIndex": 1.137244102690214
+    },
+    {
+        "name": "AN Cook (ENG)",
+        "pid": "11728",
+        "avg": 45.35,
+        "sr": 46.95,
+        "startYear": 2006,
+        "consIndex": 1.195485421799159
+    },
+    {
+        "name": "TT Samaraweera (SL)",
+        "pid": "50424",
+        "avg": 48.76,
+        "sr": 46.92,
+        "startYear": 2001,
+        "consIndex": 1.1378887987903008
+    },
+    {
+        "name": "RR Sarwan (WI)",
+        "pid": "52969",
+        "avg": 40.01,
+        "sr": 46.79,
+        "startYear": 2000,
+        "consIndex": 1.140498734311124
+    },
+    {
+        "name": "PD Collingwood (ENG)",
+        "pid": "10772",
+        "avg": 40.56,
+        "sr": 46.44,
+        "startYear": 2003,
+        "consIndex": 1.1240950405505563
+    },
+    {
+        "name": "F du Plessis (SA)",
+        "pid": "44828",
+        "avg": 40.02,
+        "sr": 46.32,
+        "startYear": 2012,
+        "consIndex": 1.1363106451336695
+    },
+    {
+        "name": "TWM Latham (NZ)",
+        "pid": "388802",
+        "avg": 41.38,
+        "sr": 46.32,
+        "startYear": 2014,
+        "consIndex": 1.174570504043024
+    },
+    {
+        "name": "AI Kallicharran (WI)",
+        "pid": "52285",
+        "avg": 44.43,
+        "sr": 46.31,
+        "startYear": 1972,
+        "consIndex": 1.01800214268329
+    },
+    {
+        "name": "M Vijay (INDIA)",
+        "pid": "237095",
+        "avg": 38.28,
+        "sr": 46.29,
+        "startYear": 2008,
+        "consIndex": 1.157161728881985
+    },
+    {
+        "name": "PJL Dujon (WI)",
+        "pid": "51657",
+        "avg": 31.94,
+        "sr": 46.25,
+        "startYear": 1981,
+        "consIndex": 0.9745654106759918
+    },
+    {
+        "name": "Majid Khan (PAK)",
+        "pid": "41919",
+        "avg": 41.19,
+        "sr": 46.13,
+        "startYear": 1971,
+        "consIndex": 0.9312763023065427
+    },
+    {
+        "name": "AW Greig (ENG)",
+        "pid": "13463",
+        "avg": 40.43,
+        "sr": 46.03,
+        "startYear": 1972,
+        "consIndex": 0.9378965852729906
+    },
+    {
+        "name": "Javed Miandad (PAK)",
+        "pid": "40879",
+        "avg": 52.57,
+        "sr": 45.99,
+        "startYear": 1976,
+        "consIndex": 1.1344700652535704
+    },
+    {
+        "name": "JH Kallis (ICC/SA)",
+        "pid": "45789",
+        "avg": 55.37,
+        "sr": 45.97,
+        "startYear": 1995,
+        "consIndex": 1.1678231399983967
+    },
+    {
+        "name": "GP Thorpe (ENG)",
+        "pid": "21537",
+        "avg": 44.66,
+        "sr": 45.89,
+        "startYear": 1993,
+        "consIndex": 0.9782040761513917
+    },
+    {
+        "name": "SP Fleming (NZ)",
+        "pid": "37000",
+        "avg": 40.06,
+        "sr": 45.82,
+        "startYear": 1994,
+        "consIndex": 1.1778636865259122
+    },
+    {
+        "name": "RA Smith (ENG)",
+        "pid": "20263",
+        "avg": 43.67,
+        "sr": 45.65,
+        "startYear": 1988,
+        "consIndex": 1.1037434349357271
+    },
+    {
+        "name": "Ijaz Ahmed (PAK)",
+        "pid": "40551",
+        "avg": 37.67,
+        "sr": 45.22,
+        "startYear": 1987,
+        "consIndex": 1.2967672373126324
+    },
+    {
+        "name": "MW Gatting (ENG)",
+        "pid": "13340",
+        "avg": 35.55,
+        "sr": 45.15,
+        "startYear": 1978,
+        "consIndex": 1.2447952939801064
+    },
+    {
+        "name": "A Flower (ZIM)",
+        "pid": "55427",
+        "avg": 51.54,
+        "sr": 45.07,
+        "startYear": 1992,
+        "consIndex": 1.1459477655661878
+    },
+    {
+        "name": "DM Bravo (WI)",
+        "pid": "277472",
+        "avg": 36.47,
+        "sr": 44.86,
+        "startYear": 2010,
+        "consIndex": 1.1390297575044104
+    },
+    {
+        "name": "DL Haynes (WI)",
+        "pid": "52047",
+        "avg": 42.29,
+        "sr": 44.67,
+        "startYear": 1978,
+        "consIndex": 1.0815283888059377
+    },
+    {
+        "name": "MD Crowe (NZ)",
+        "pid": "36622",
+        "avg": 45.36,
+        "sr": 44.65,
+        "startYear": 1982,
+        "consIndex": 1.1152841553380595
+    },
+    {
+        "name": "CA Pujara (INDIA)",
+        "pid": "32540",
+        "avg": 46.08,
+        "sr": 44.64,
+        "startYear": 2010,
+        "consIndex": 1.2059501563586328
+    },
+    {
+        "name": "WJ Cronje (SA)",
+        "pid": "44485",
+        "avg": 36.41,
+        "sr": 44.63,
+        "startYear": 1992,
+        "consIndex": 1.0374993927491938
+    },
+    {
+        "name": "Misbah-ul-Haq (PAK)",
+        "pid": "41378",
+        "avg": 46.62,
+        "sr": 44.53,
+        "startYear": 2001,
+        "consIndex": 1.0397052847084984
+    },
+    {
+        "name": "MS Atapattu (SL)",
+        "pid": "48124",
+        "avg": 39.02,
+        "sr": 44.42,
+        "startYear": 1990,
+        "consIndex": 1.3991525575438744
+    },
+    {
+        "name": "SM Gavaskar (INDIA)",
+        "pid": "28794",
+        "avg": 51.12,
+        "sr": 44.42,
+        "startYear": 1971,
+        "consIndex": 1.0672405478796116
+    },
+    {
+        "name": "NS Sidhu (INDIA)",
+        "pid": "34028",
+        "avg": 42.13,
+        "sr": 44.33,
+        "startYear": 1983,
+        "consIndex": 0.998618401998118
+    },
+    {
+        "name": "GR Viswanath (INDIA)",
+        "pid": "35712",
+        "avg": 41.63,
+        "sr": 44.08,
+        "startYear": 1971,
+        "consIndex": 1.109697075934857
+    },
+    {
+        "name": "AG Prince (SA)",
+        "pid": "46788",
+        "avg": 41.64,
+        "sr": 43.7,
+        "startYear": 2002,
+        "consIndex": 1.35147450303586
+    },
+    {
+        "name": "G Kirsten (SA)",
+        "pid": "45813",
+        "avg": 45.27,
+        "sr": 43.43,
+        "startYear": 1993,
+        "consIndex": 1.0980122607768623
+    },
+    {
+        "name": "S Chanderpaul (WI)",
+        "pid": "51469",
+        "avg": 51.37,
+        "sr": 43.31,
+        "startYear": 1994,
+        "consIndex": 1.223196470938037
+    },
+    {
+        "name": "MA Butcher (ENG)",
+        "pid": "9327",
+        "avg": 34.58,
+        "sr": 42.85,
+        "startYear": 1997,
+        "consIndex": 0.9980253086260663
+    },
+    {
+        "name": "KJ Hughes (AUS)",
+        "pid": "5724",
+        "avg": 37.41,
+        "sr": 42.84,
+        "startYear": 1977,
+        "consIndex": 1.1158375647520185
+    },
+    {
+        "name": "BJ Watling (NZ)",
+        "pid": "38924",
+        "avg": 37.52,
+        "sr": 42.61,
+        "startYear": 2009,
+        "consIndex": 1.2689343758001272
+    },
+    {
+        "name": "R Dravid (ICC/INDIA)",
+        "pid": "28114",
+        "avg": 52.31,
+        "sr": 42.51,
+        "startYear": 1996,
+        "consIndex": 1.1333491773716853
+    },
+    {
+        "name": "DB Vengsarkar (INDIA)",
+        "pid": "35654",
+        "avg": 42.13,
+        "sr": 42.4,
+        "startYear": 1976,
+        "consIndex": 1.1489526728960577
+    },
+    {
+        "name": "DL Amiss (ENG)",
+        "pid": "8535",
+        "avg": 49.11,
+        "sr": 42.27,
+        "startYear": 1971,
+        "consIndex": 1.2255417894119545
+    },
+    {
+        "name": "M Amarnath (INDIA)",
+        "pid": "26225",
+        "avg": 42.76,
+        "sr": 42.17,
+        "startYear": 1976,
+        "consIndex": 0.9569305094115449
+    },
+    {
+        "name": "ND McKenzie (SA)",
+        "pid": "46208",
+        "avg": 37.39,
+        "sr": 42.0,
+        "startYear": 2000,
+        "consIndex": 1.0949661494668506
+    },
+    {
+        "name": "Azhar Ali (PAK)",
+        "pid": "39037",
+        "avg": 43.28,
+        "sr": 41.94,
+        "startYear": 2010,
+        "consIndex": 1.2123857958734863
+    },
+    {
+        "name": "MA Taylor (AUS)",
+        "pid": "7924",
+        "avg": 43.49,
+        "sr": 41.48,
+        "startYear": 1989,
+        "consIndex": 1.1887999336426194
+    },
+    {
+        "name": "HA Gomes (WI)",
+        "pid": "51891",
+        "avg": 39.63,
+        "sr": 41.27,
+        "startYear": 1976,
+        "consIndex": 1.1649664593504894
+    },
+    {
+        "name": "Mudassar Nazar (PAK)",
+        "pid": "41308",
+        "avg": 38.09,
+        "sr": 41.22,
+        "startYear": 1976,
+        "consIndex": 1.2826710707797835
+    },
+    {
+        "name": "AR Border (AUS)",
+        "pid": "4174",
+        "avg": 50.56,
+        "sr": 41.09,
+        "startYear": 1978,
+        "consIndex": 1.0784808583856218
+    },
+    {
+        "name": "DC Boon (AUS)",
+        "pid": "4169",
+        "avg": 43.65,
+        "sr": 40.96,
+        "startYear": 1984,
+        "consIndex": 1.1324393087929894
+    },
+    {
+        "name": "KC Brathwaite (WI)",
+        "pid": "348024",
+        "avg": 32.6,
+        "sr": 40.7,
+        "startYear": 2011,
+        "consIndex": 1.235183966089277
+    },
+    {
+        "name": "N Hussain (ENG)",
+        "pid": "14325",
+        "avg": 37.18,
+        "sr": 40.38,
+        "startYear": 1990,
+        "consIndex": 1.118342205229952
+    },
+    {
+        "name": "HP Tillakaratne (SL)",
+        "pid": "50744",
+        "avg": 42.87,
+        "sr": 40.26,
+        "startYear": 1989,
+        "consIndex": 1.287114988012317
+    },
+    {
+        "name": "GM Wood (AUS)",
+        "pid": "8251",
+        "avg": 31.83,
+        "sr": 40.2,
+        "startYear": 1978,
+        "consIndex": 1.084285006224624
+    },
+    {
+        "name": "JC Adams (WI)",
+        "pid": "51100",
+        "avg": 41.26,
+        "sr": 37.57,
+        "startYear": 1992,
+        "consIndex": 1.3597451894261219
+    },
+    {
+        "name": "MA Atherton (ENG)",
+        "pid": "8579",
+        "avg": 37.69,
+        "sr": 37.49,
+        "startYear": 1989,
+        "consIndex": 1.074767913122775
+    },
+    {
+        "name": "RJ Shastri (INDIA)",
+        "pid": "33975",
+        "avg": 35.79,
+        "sr": 36.75,
+        "startYear": 1981,
+        "consIndex": 1.2297814540272782
+    },
+    {
+        "name": "JG Wright (NZ)",
+        "pid": "38757",
+        "avg": 37.82,
+        "sr": 35.26,
+        "startYear": 1978,
+        "consIndex": 0.9706724197202166
+    },
+    {
+        "name": "GW Flower (ZIM)",
+        "pid": "55429",
+        "avg": 29.54,
+        "sr": 34.52,
+        "startYear": 1992,
+        "consIndex": 1.230621496816377
+    }
+]
